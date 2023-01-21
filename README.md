@@ -15,6 +15,7 @@ Hi!
  - Make as a Telegram bot;
  - Different browsers and docker support;
  - More detailing Chat GPT support
+ e.t.c.
  
  How to use this bot:
  - Clone git repo https://github.com/DenisPyProCourse/LinkedIn_bot.git
