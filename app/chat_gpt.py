@@ -11,6 +11,7 @@ try:
     api_key = os.getenv('API_KEY') if os.getenv('API_KEY') and len(os.getenv('API_KEY')) > 0 else ''
 except:
     EnvironmentError("Please, add your api_key to .env")
+    api_key = ''
 
 def work_exp_auto(desc, api_key):
     openai.api_key = api_key
