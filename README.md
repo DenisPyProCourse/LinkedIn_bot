@@ -18,5 +18,11 @@ Hi!
  - Different browsers and docker support;
  - More detailing Chat GPT support
  
+ How to use this bot:
+ - Clone git repo https://github.com/DenisPyProCourse/LinkedIn_bot.git
+ - pip install - r requirements.txt
+ - python main.py
+ That script will launch the program, after that you should choose browser.
+ 
  Thanks & Best regards
  Denys
