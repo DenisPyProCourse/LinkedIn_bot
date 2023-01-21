@@ -1,0 +1,10 @@
+version: 4.10.1
+services:
+  bot:
+    build: .
+    env_file:
+      - ./.env
+    command: sh -c "python main.py"
+#    command:
+#      - 'python main.py'
+    restart: always
