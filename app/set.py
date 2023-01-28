@@ -6,7 +6,7 @@ from app.resume_gen import job_listing
 email = 'dendvnk@proton.me'
 pswd = '=rNEHr:L#*W8e*m'
 name = 'Den'
-photo_path = os.path.abspath(os.getcwd()) + '/images/412e01d3-9af4-45f9-8cdd-483716b2f778.jpg'
+photo_path = os.path.abspath(os.getcwd()) + '/app/images/412e01d3-9af4-45f9-8cdd-483716b2f778.jpg'
 university = 'Harvard University'
 degree = "Bachelor's degree"
 spec = 'Web design'
